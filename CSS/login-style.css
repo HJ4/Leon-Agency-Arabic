@@ -1,6 +1,9 @@
 
 body{
-background: #00a379;
+/* background: #00a379; */
+background-image: url(../Images/bulding.jpg);
+background-size: cover;
+background-repeat: no-repeat;
 overflow: hidden;
 }
 ::selection{
